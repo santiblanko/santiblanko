@@ -149,7 +149,7 @@ I am a versatile data professional and developer with a wide range of skills and
 
 ## Project Management
 
-- **Scrum:** Experienced in Scrum agile methodology for project management.
+- **Scrum:** Proficient in Scrum, an agile framework for project management that emphasizes iterative development, collaboration, and customer feedback.
 
 - **Jira:** Proficient in using Jira for issue tracking and project management.
 
