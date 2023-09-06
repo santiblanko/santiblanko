@@ -6,15 +6,20 @@ I am a versatile data professional and developer with a wide range of skills and
 
 ## DevOps
 
+- **Kubernetes:** Proficient in Kubernetes orchestration, including Ingress controllers for routing.
+
+- **Grafana, Loki, and Prometheus:** Skilled in setting up monitoring and logging with Grafana, Loki, and Prometheus.
+
+- **Infrastructure as Code (IaC):** Experienced with AWS CDK (Cloud Development Kit) for IaC.
+
+- **New Relic:** Proficient in New Relic for application monitoring.
+
 - **SSH:** Proficient in using SSH for secure remote server access.
 
 - **SCP:** Experienced in secure file transfer with SCP (Secure Copy Protocol).
 
 - **Port Forwarding:** Skilled in port forwarding for secure network communication.
 
-- **Security Groups:** Proficient in configuring security groups for network access control.
-
-- **Autoscaling Group:** Experienced in setting up and managing Autoscaling groups for dynamic resource allocation.
 
 ## Cloud Services
 
@@ -33,6 +38,10 @@ I am a versatile data professional and developer with a wide range of skills and
 - **EC2 (Elastic Compute Cloud):** Skilled in deploying and managing EC2 instances.
 
 - **Load Balancer:** Proficient in configuring and managing load balancers, including ALB (Application Load Balancer) and NLB (Network Load Balancer).
+
+- **Security Groups:** Proficient in configuring security groups for network access control.
+
+- **Autoscaling Group:** Experienced in setting up and managing Autoscaling groups for dynamic resource allocation.
 
 ### Google Cloud
 
