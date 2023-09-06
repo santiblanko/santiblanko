@@ -1,41 +1,53 @@
+# [Your Name]'s Profile
+
 Welcome to my GitHub profile!
 
 ## Summary
 
-I am a data professional and developer with experience in a variety of technologies and tools. My expertise spans across various aspects of the data and technology landscape, and here are some of the areas I have worked in:
+I am a versatile data professional and developer with a wide range of skills and experiences in various technology domains. Here's an expanded overview of my expertise:
 
-## Data Experience
+## Data and ETL
 
-- **DBT:** I have worked with DBT (Data Build Tool) to transform and model data in analytics and BI projects.
+- **DBT:** Proficient in DBT (Data Build Tool) for data transformation and modeling.
 
-- **Looker Studio:** I used Looker Studio to create and share data visualizations and dashboards.
-
-- **BigQuery:** I have worked with BigQuery for large-scale data analysis and querying.
-
-- **Airflow and Airbyte:** I implemented data workflows and orchestrated ETL tasks using Apache Airflow and Airbyte.
+- **Pentaho Data Integration:** Experienced in using Pentaho Data Integration for ETL workflows.
 
 ## Programming Languages
 
-- **Node.js:** I have experience in developing applications and services using Node.js.
+- **Node.js:** Skilled in Node.js and utilizing SSH for server management.
 
-- **Python:** I have used Python for data analysis, automation, and application development.
+- **Python:** Experienced in Python, Git, and Git Flow for version control.
 
-## Cloud Experience
+## Frontend Development
 
-- **AWS:** I have worked with a variety of Amazon Web Services (AWS) services such as SQS, EventBridge, SNS, Step Functions, Lambda, S3, EC2, Load Balancers, and EKS.
+- **HTML5 & CSS3:** Proficient in frontend web development using HTML5 and CSS3.
 
-## Containers and Orchestration
+- **Vue.js & Vuex:** Skilled in building web applications with Vue.js and Vuex.
 
-- **Docker:** I implemented applications in Docker containers for portability and deployment efficiency.
+- **React & React Native:** Experienced in both React web development and React Native for mobile apps.
 
-- **Kubernetes:** I used Kubernetes to orchestrate and manage containers in production environments.
+- **Astro:** Proficient in using Astro for fast and efficient web development.
+
+- **Bootstrap & Tailwind:** Experienced in frontend frameworks like Bootstrap and Tailwind CSS.
+
+## DevOps and Kubernetes
+
+- **Kubernetes:** Proficient in Kubernetes orchestration, including Ingress controllers for routing.
+
+- **Grafana, Loki, and Prometheus:** Skilled in setting up monitoring and logging with Grafana, Loki, and Prometheus.
+
+- **Infrastructure as Code (IaC):** Experienced with AWS CDK (Cloud Development Kit) for IaC.
+
+- **New Relic:** Proficient in New Relic for application monitoring.
+
+## No-Code Platforms
+
+- **Bubble, Knack, Pipedream, and Zapier:** Experienced in using no-code platforms for rapid application development and automation.
 
 ## Databases
 
-- **PostgreSQL:** I worked with PostgreSQL databases for structured data storage and analysis.
+- **MongoDB Atlas & MySQL:** Proficient in managing MongoDB Atlas and MySQL databases.
 
-- **MongoDB:** I have used MongoDB to store and query unstructured and semi-structured data.
-
-I am excited to continue learning and exploring new technologies! Feel free to reach out if you have any questions or interesting projects in mind.
+I am passionate about learning and staying up-to-date with the latest technologies. Feel free to reach out if you have any questions or interesting projects in mind.
 
 Thank you for visiting my GitHub profile!
