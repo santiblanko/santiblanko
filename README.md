@@ -117,6 +117,18 @@ I am a versatile data professional and developer with a wide range of skills and
 
 - **Contentful:** Experienced in using Contentful as a headless CMS.
 
+## Project Management
+
+- **Scrum:** Experienced in Scrum agile methodology for project management.
+
+- **Jira:** Proficient in using Jira for issue tracking and project management.
+
+- **Trello:** Skilled in Trello for visual project management and task tracking.
+
+- **Notion:** Proficient in Notion for collaborative note-taking and project organization.
+
+
+
 I am passionate about learning and staying up-to-date with the latest technologies. Feel free to reach out if you have any questions or interesting projects in mind.
 
 Thank you for visiting my GitHub profile!
