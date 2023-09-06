@@ -12,6 +12,8 @@ I am a versatile data professional and developer with a wide range of skills and
 
 - **Infrastructure as Code (IaC):** Experienced with AWS CDK (Cloud Development Kit) for IaC.
 
+- **GitHub Actions:** Experienced in setting up CI/CD pipelines with GitHub Actions for automated software delivery.
+
 - **New Relic:** Proficient in New Relic for application monitoring.
 
 - **SSH:** Proficient in using SSH for secure remote server access.
