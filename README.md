@@ -4,11 +4,61 @@ Welcome to my GitHub profile!
 
 I am a versatile data professional and developer with a wide range of skills and experiences in various technology domains. Here's an expanded overview of my expertise:
 
+## DevOps
+
+- **SSH:** Proficient in using SSH for secure remote server access.
+
+- **SCP:** Experienced in secure file transfer with SCP (Secure Copy Protocol).
+
+- **Port Forwarding:** Skilled in port forwarding for secure network communication.
+
+- **Security Groups:** Proficient in configuring security groups for network access control.
+
+- **Autoscaling Group:** Experienced in setting up and managing Autoscaling groups for dynamic resource allocation.
+
+## Cloud Services
+
+### AWS (Amazon Web Services)
+
+- **SNS (Simple Notification Service):** Proficient in using SNS for pub/sub messaging.
+
+- **SQS (Simple Queue Service):** Experienced in message queuing with SQS.
+
+- **EventBridge:** Skilled in event-driven architecture with AWS EventBridge.
+
+- **S3 (Simple Storage Service):** Proficient in object storage with AWS S3.
+
+- **CloudWatch:** Experienced in monitoring and logging with AWS CloudWatch.
+
+- **EC2 (Elastic Compute Cloud):** Skilled in deploying and managing EC2 instances.
+
+- **Load Balancer:** Proficient in configuring and managing load balancers, including ALB (Application Load Balancer) and NLB (Network Load Balancer).
+
+### Google Cloud
+
+(Add your Google Cloud services experience here)
+
+## API Handling
+
+- **REST:** Proficient in building and consuming RESTful APIs.
+
+- **SOAP:** Experienced in working with SOAP-based web services.
+
+- **GraphQL:** Skilled in using GraphQL for flexible API queries.
+
 ## Data and ETL
 
 - **DBT:** Proficient in DBT (Data Build Tool) for data transformation and modeling.
 
 - **Pentaho Data Integration:** Experienced in using Pentaho Data Integration for ETL workflows.
+
+- **SQL:** Skilled in SQL for database querying and manipulation.
+
+- **BigQuery:** Proficient in Google BigQuery for large-scale data analysis.
+
+- **Cloud Storage:** Experienced in cloud storage solutions for data management.
+
+- **Cloud Scheduler:** Proficient in scheduling tasks in cloud environments.
 
 ## Programming Languages
 
@@ -24,12 +74,6 @@ I am a versatile data professional and developer with a wide range of skills and
 
 - **Python:** Experienced in Python.
 
-## Git and SSH
-
-- **Git:** Proficient in Git and Git Flow for version control.
-
-- **SSH:** Experienced in SSH for server management.
-
 ## Frontend Development
 
 - **HTML5 & CSS3:** Proficient in frontend web development using HTML5 and CSS3.
@@ -42,35 +86,9 @@ I am a versatile data professional and developer with a wide range of skills and
 
 - **Bootstrap & Tailwind:** Experienced in frontend frameworks like Bootstrap and Tailwind CSS.
 
-## DevOps and Kubernetes
+- **Strapi:** Proficient in Strapi for building headless CMS solutions.
 
-- **Kubernetes:** Proficient in Kubernetes orchestration, including Ingress controllers for routing.
-
-- **Linkerd:** Experienced in setting up service mesh with Linkerd.
-
-- **Docker:** Skilled in Docker containerization.
-
-- **Docker Compose:** Experienced in defining multi-container applications with Docker Compose.
-
-- **Docker Swarm:** Proficient in container orchestration with Docker Swarm.
-
-- **Grafana, Loki, and Prometheus:** Skilled in setting up monitoring and logging with Grafana, Loki, and Prometheus.
-
-- **Infrastructure as Code (IaC):** Experienced with AWS CDK (Cloud Development Kit) for IaC.
-
-- **New Relic:** Proficient in New Relic for application monitoring.
-
-## No-Code Platforms
-
-- **Bubble, Knack, Pipedream, and Zapier:** Experienced in using no-code platforms for rapid application development and automation.
-
-## Databases
-
-- **MongoDB Atlas & MongoDB:** Proficient in managing MongoDB Atlas and standalone MongoDB databases.
-
-- **MySQL:** Experienced in MySQL database administration.
-
-- **PostgreSQL:** Skilled in PostgreSQL database management.
+- **Contentful:** Experienced in using Contentful as a headless CMS.
 
 I am passionate about learning and staying up-to-date with the latest technologies. Feel free to reach out if you have any questions or interesting projects in mind.
 
