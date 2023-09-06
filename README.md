@@ -123,6 +123,16 @@ I am a versatile data professional and developer with a wide range of skills and
 
 - **Contentful:** Experienced in using Contentful as a headless CMS.
 
+## Architecture
+
+- **Microservices Orchestration:** Proficient in orchestrating microservices architecture for scalable and resilient applications.
+
+- **Microservices Choreography:** Skilled in microservices choreography patterns for event-driven architectures.
+
+- **SOLID Principles:** Experienced in applying SOLID principles (Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion) to create maintainable and scalable software.
+
+- **Hexagonal Architecture:** Proficient in designing applications using Hexagonal Architecture for clean separation of concerns.
+
 ## Project Management
 
 - **Scrum:** Experienced in Scrum agile methodology for project management.
