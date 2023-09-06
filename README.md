@@ -32,6 +32,7 @@ I am a versatile data professional and developer with a wide range of skills and
 
 - **DNS Management:** Proficient in managing Domain Name System (DNS) configurations. (Goddady, Route53, Liquid, google)
 
+- **PM2 (Process Manager 2):** Experienced in using PM2 to manage and monitor Node.js applications in production.
 
 ## Cloud Services
 
