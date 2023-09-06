@@ -69,6 +69,8 @@ I am a versatile data professional and developer with a wide range of skills and
 
 - **Cloud Functions:** Proficient in serverless computing with Google Cloud Functions.
 
+- **Looker Studio:** Skilled in creating reports and dashboards with Looker Studio.
+
 ## API Handling
 
 - **REST:** Proficient in building and consuming RESTful APIs.
@@ -96,6 +98,8 @@ I am a versatile data professional and developer with a wide range of skills and
 - **Apache Airflow:** Proficient in workflow automation and orchestration with Apache Airflow.
 
 - **Apache Superset:** Skilled in data exploration and visualization with Apache Superset.
+
+- **Looker Studio:** Skilled in creating reports and dashboards with Looker Studio.
 
 ## Programming Languages
 
