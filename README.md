@@ -20,6 +20,16 @@ I am a versatile data professional and developer with a wide range of skills and
 
 - **Port Forwarding:** Skilled in port forwarding for secure network communication.
 
+- **Linkerd:** Experienced in setting up service mesh with Linkerd.
+
+- **Docker:** Skilled in Docker containerization.
+
+- **Docker Compose:** Experienced in defining multi-container applications with Docker Compose.
+
+- **Docker Swarm:** Proficient in container orchestration with Docker Swarm.
+
+- **DNS Management:** Proficient in managing Domain Name System (DNS) configurations. (Goddady, Route53, Liquid, google)
+
 
 ## Cloud Services
 
