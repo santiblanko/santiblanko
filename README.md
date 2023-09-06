@@ -57,6 +57,10 @@ I am a versatile data professional and developer with a wide range of skills and
 
 - **Autoscaling Group:** Experienced in setting up and managing Autoscaling groups for dynamic resource allocation.
 
+- **Amazon EKS (Elastic Kubernetes Service):** Experienced in managing Kubernetes clusters with Amazon EKS for container orchestration.
+
+- **AWS Secrets Manager:** Skilled in managing and securing sensitive information using AWS Secrets Manager.
+
 ### Google Cloud
 
 - **Pub/Sub (Cloud Pub/Sub):** Proficient in Google Cloud Pub/Sub for asynchronous messaging.
