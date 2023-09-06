@@ -1,5 +1,3 @@
-# [Your Name]'s Profile
-
 Welcome to my GitHub profile!
 
 ## Summary
@@ -14,9 +12,23 @@ I am a versatile data professional and developer with a wide range of skills and
 
 ## Programming Languages
 
-- **Node.js:** Skilled in Node.js and utilizing SSH for server management.
+- **Node.js:** Skilled in Node.js, including:
 
-- **Python:** Experienced in Python, Git, and Git Flow for version control.
+  - **Express:** Proficient in building web applications and APIs using Express.
+
+  - **Jest:** Experienced in using Jest for testing Node.js applications.
+
+  - **Puppeteer:** Skilled in extracting data from websites using Puppeteer.
+
+  - **Webdriver.io:** Proficient in end-to-end testing with Webdriver.io.
+
+- **Python:** Experienced in Python.
+
+## Git and SSH
+
+- **Git:** Proficient in Git and Git Flow for version control.
+
+- **SSH:** Experienced in SSH for server management.
 
 ## Frontend Development
 
@@ -34,6 +46,14 @@ I am a versatile data professional and developer with a wide range of skills and
 
 - **Kubernetes:** Proficient in Kubernetes orchestration, including Ingress controllers for routing.
 
+- **Linkerd:** Experienced in setting up service mesh with Linkerd.
+
+- **Docker:** Skilled in Docker containerization.
+
+- **Docker Compose:** Experienced in defining multi-container applications with Docker Compose.
+
+- **Docker Swarm:** Proficient in container orchestration with Docker Swarm.
+
 - **Grafana, Loki, and Prometheus:** Skilled in setting up monitoring and logging with Grafana, Loki, and Prometheus.
 
 - **Infrastructure as Code (IaC):** Experienced with AWS CDK (Cloud Development Kit) for IaC.
@@ -46,7 +66,11 @@ I am a versatile data professional and developer with a wide range of skills and
 
 ## Databases
 
-- **MongoDB Atlas & MySQL:** Proficient in managing MongoDB Atlas and MySQL databases.
+- **MongoDB Atlas & MongoDB:** Proficient in managing MongoDB Atlas and standalone MongoDB databases.
+
+- **MySQL:** Experienced in MySQL database administration.
+
+- **PostgreSQL:** Skilled in PostgreSQL database management.
 
 I am passionate about learning and staying up-to-date with the latest technologies. Feel free to reach out if you have any questions or interesting projects in mind.
 
