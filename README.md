@@ -41,6 +41,8 @@ I am a versatile data professional and developer with a wide range of skills and
 
 - **EventBridge:** Skilled in event-driven architecture with AWS EventBridge.
 
+- **Lambda:** Proficient in serverless computing with AWS Lambda.
+  
 - **S3 (Simple Storage Service):** Proficient in object storage with AWS S3.
 
 - **CloudWatch:** Experienced in monitoring and logging with AWS CloudWatch.
@@ -64,6 +66,8 @@ I am a versatile data professional and developer with a wide range of skills and
 - **Cloud Scheduler:** Proficient in scheduling tasks in Google Cloud environments.
 
 - **Compute Engine:** Skilled in deploying and managing virtual machines on Google Cloud.
+
+- **Cloud Functions:** Proficient in serverless computing with Google Cloud Functions.
 
 ## API Handling
 
