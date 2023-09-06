@@ -87,6 +87,12 @@ I am a versatile data professional and developer with a wide range of skills and
 
 - **Cloud Scheduler:** Proficient in scheduling tasks in cloud environments.
 
+- **Airbyte:** Experienced in data integration and replication with Airbyte.
+
+- **Apache Airflow:** Proficient in workflow automation and orchestration with Apache Airflow.
+
+- **Apache Superset:** Skilled in data exploration and visualization with Apache Superset.
+
 ## Programming Languages
 
 - **Node.js:** Skilled in Node.js, including:
