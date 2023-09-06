@@ -55,7 +55,15 @@ I am a versatile data professional and developer with a wide range of skills and
 
 ### Google Cloud
 
-(Add your Google Cloud services experience here)
+- **Pub/Sub (Cloud Pub/Sub):** Proficient in Google Cloud Pub/Sub for asynchronous messaging.
+
+- **BigQuery:** Proficient in Google BigQuery for large-scale data analysis.
+
+- **Cloud Storage:** Experienced in cloud storage solutions for data management.
+
+- **Cloud Scheduler:** Proficient in scheduling tasks in Google Cloud environments.
+
+- **Compute Engine:** Skilled in deploying and managing virtual machines on Google Cloud.
 
 ## API Handling
 
