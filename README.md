@@ -94,6 +94,8 @@ I am a versatile data professional and developer with a wide range of skills and
 
 - **SQL:** Skilled in SQL for database querying and manipulation.
 
+- **CTEs:** Proficient in using Common Table Expressions to simplify and enhance SQL queries for data transformation and analysis. 
+
 - **BigQuery:** Proficient in Google BigQuery for large-scale data analysis.
 
 - **Cloud Storage:** Experienced in cloud storage solutions for data management.
