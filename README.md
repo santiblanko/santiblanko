@@ -78,6 +78,8 @@ I am a versatile data professional and developer with a wide range of skills and
 
 - **Looker Studio:** Skilled in creating reports and dashboards with Looker Studio.
 
+### Vercel
+
 ## API Handling
 
 - **REST:** Proficient in building and consuming RESTful APIs.
