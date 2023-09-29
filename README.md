@@ -156,6 +156,13 @@ I am a versatile data professional and developer with a wide range of skills and
 
 - **Hexagonal Architecture:** Proficient in designing applications using Hexagonal Architecture for clean separation of concerns.
 
+
+## Misc
+
+- **NSIS:** NSIS is an open-source installation system that allows you to create custom software installers for Windows easily. 
+
+-**PKG:** The Vercel pkg tool is a command-line utility provided by Vercel, a cloud platform for frontend developers. This tool is used to package Node.js applications into a single executable binary. It simplifies the deployment and distribution of Node.js applications by eliminating the need for end-users to install Node.js or its dependencies. 
+
 ## Project Management
 
 - **Scrum:** Proficient in Scrum, an agile framework for project management that emphasizes iterative development, collaboration, and customer feedback.
