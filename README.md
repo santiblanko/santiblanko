@@ -132,6 +132,10 @@ I am a versatile data professional and developer with a wide range of skills and
 
 - **Vue.js & Vuex:** Skilled in building web applications with Vue.js and Vuex.
 
+- **Nuxt:** Nuxt.js is an open-source framework built on top of Vue.js that simplifies the development of high-quality universal and single-page web applications (SPAs). Nuxt adds additional features to Vue, such as automatic routing, server-side rendering (SSR), and static site generation.
+
+- **Next:** Next.js is an open-source framework built on top of React.js, used for building web applications. Like Nuxt, Next.js focuses on delivering fast and efficient web experiences. Next.js stands out for its ability to provide server-side rendering (SSR), static site generation, automatic routing, and other features that enhance performance and SEO.
+
 - **React & React Native:** Experienced in both React web development and React Native for mobile apps.
 
 - **Astro:** Proficient in using Astro for fast and efficient web development.
