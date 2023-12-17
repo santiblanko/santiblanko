@@ -112,6 +112,12 @@ I am a versatile data professional and developer with a wide range of skills and
 
 - **Looker Studio:** Skilled in creating reports and dashboards with Looker Studio.
 
+## LLM (In progress) :D
+
+- Langchain
+- Ollama
+- Dify
+
 ## Programming Languages
 
 - **Node.js:** Skilled in Node.js, including:
